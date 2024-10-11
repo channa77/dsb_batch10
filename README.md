@@ -7,3 +7,8 @@ My data science and analytics projects
 3. R programming - Pao ying chun ?
 4. looker GA4 Dashboard
 5. liner Regregression Model using caret
+
+## Contact Me
+reach out to me at 
+
+## Image
